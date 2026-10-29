@@ -1,0 +1,14 @@
+[
+  { "id": "topic_reading_writing", "moduleId": "module_general_basic_sciences", "title": "Comprensión lectora y redacción", "order": 1 },
+  { "id": "topic_mathematical_thinking", "moduleId": "module_general_basic_sciences", "title": "Pensamiento matemático", "order": 2 },
+  { "id": "topic_chemistry", "moduleId": "module_general_basic_sciences", "title": "Química", "order": 3 },
+  { "id": "topic_basic_physics", "moduleId": "module_general_basic_sciences", "title": "Física básica", "order": 4 },
+  { "id": "topic_human_oral_anatomy", "moduleId": "module_dental_sciences", "title": "Anatomía humana y aparato estomatognático", "order": 1 },
+  { "id": "topic_dental_anatomy", "moduleId": "module_dental_sciences", "title": "Anatomía dental", "order": 2 },
+  { "id": "topic_oral_histology_embryology", "moduleId": "module_dental_sciences", "title": "Histología y embriología oral", "order": 3 },
+  { "id": "topic_prevention_microbiology", "moduleId": "module_dental_sciences", "title": "Prevención y microbiología", "order": 4 },
+  { "id": "topic_intraoral_cadcam", "moduleId": "module_dental_technology", "title": "Escáneres intraorales y CAD/CAM", "order": 1 },
+  { "id": "topic_3d_printing", "moduleId": "module_dental_technology", "title": "Impresión 3D", "order": 2 },
+  { "id": "topic_artificial_intelligence", "moduleId": "module_dental_technology", "title": "Inteligencia artificial", "order": 3 },
+  { "id": "topic_virtual_reality", "moduleId": "module_dental_technology", "title": "Realidad virtual", "order": 4 }
+]

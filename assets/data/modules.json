@@ -1,0 +1,20 @@
+[
+  {
+    "id": "module_general_basic_sciences",
+    "title": "Habilidades generales y ciencias básicas",
+    "description": "Comprensión, razonamiento y fundamentos científicos.",
+    "order": 1
+  },
+  {
+    "id": "module_dental_sciences",
+    "title": "Ciencias odontológicas",
+    "description": "Bases anatómicas, biológicas y preventivas relacionadas con odontología.",
+    "order": 2
+  },
+  {
+    "id": "module_dental_technology",
+    "title": "Tecnología en odontología",
+    "description": "Tecnologías digitales y herramientas emergentes aplicadas al campo odontológico.",
+    "order": 3
+  }
+]

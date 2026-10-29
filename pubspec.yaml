@@ -1,0 +1,27 @@
+name: odonto_prep_ujat
+description: "Aplicación educativa personal para preparación de Odontología."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.5+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/modules.json
+    - assets/data/topics.json
+    - assets/data/lessons/
+    - assets/data/quizzes/
+    - assets/images/anatomy/
+    - assets/images/illustrations/
